@@ -21,7 +21,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+__pycache__
 
+
+# DataBase
+DataBase.sqlite3
 # C extensions
 *.so
 
